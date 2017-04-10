@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Advert Screen</string>
+
+    <string name="error_loading_advert">Error loading advert</string>
+    <string name="action_favourite">Favourite</string>
+    <string name="action_share">Share</string>
+    <string name="error_sharing_advert">Is not possible to share the advert</string>
+    <string name="ad_ref_text">Ad Ref %1$d</string>
+    <string name="contact_text">Contact %1$s</string>
+    <string name="call">call</string>
+</resources>

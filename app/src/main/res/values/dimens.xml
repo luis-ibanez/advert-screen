@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="advert_toolbar_height">256dp</dimen>
+
+    <dimen name="advert_line_height">40dp</dimen>
+
+    <dimen name="advert_bottom_space">100dp</dimen>
+
+    <dimen name="default_list_margin">12dp</dimen>
+    <dimen name="default_list_top_margin">12dp</dimen>
+    <dimen name="default_list_start_margin">12dp</dimen>
+    <dimen name="default_list_end_margin">12dp</dimen>
+    <dimen name="default_list_bottom_margin">12dp</dimen>
+
+    <dimen name="advert_line_icon_separation">20dp</dimen>
+
+    <dimen name="contact_margin">20dp</dimen>
+
+    <dimen name="advert_line_sector_separation">20dp</dimen>
+
+
+</resources>

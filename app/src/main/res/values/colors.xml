@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3c3241</color>
+    <color name="colorPrimaryDark">#1e1921</color>
+    <color name="colorAccent">#e57373</color>
+
+    <!-- used in snackbar error -->
+    <color name="error">#FF0000</color>
+
+    <color name="advert_phone_background">#dbdadb</color>
+
+    <!-- separator -->
+    <color name="separator">#10000000</color>
+</resources>
