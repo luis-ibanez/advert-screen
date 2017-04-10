@@ -311,7 +311,7 @@ public class AdvertActivity extends BaseActivity implements AdvertPresenter.View
 
         if(!StringUtils.isNullOrEmpty(sms)){
             smsButton.setVisibility(View.VISIBLE);
-            phoneButton.setOnClickListener(new View.OnClickListener() {
+            smsButton.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
                     launchSmsIntent(sms);
